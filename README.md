@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **aaxa.ru**
 
-- 🌱 I’m currently learning **Java, CMD, Python, Frontend, Sigma**
+- 🌱 I’m currently learning **Java, CMD, Python, Frontend, Figma**
 
 - ⚡ Fun fact **I speak in 3 languages, English, Russian, Uzbek**
 
