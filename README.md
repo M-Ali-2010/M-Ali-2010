@@ -1,23 +1,114 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">Full Stack Developer — Backend (Python) | Frontend (JS) | Mobile (Flutter) | Design (UI/UX)</h3>
+<h1 align="center">Мухаммад Али 👋</h1>
+<h3 align="center">Full Stack разработчик | Мобильная разработка (Flutter, Dart) | Backend (Python) | Frontend (Html, Css, Js)</h3>
 
-- 🔭 I’m currently working on **aaxa.ru**
-
-- 🌱 I’m currently learning **Java, CMD, Python, Frontend, Figma**
-
-- ⚡ Fun fact **I speak in 3 languages, English, Russian, Uzbek**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/muhammadaliiii10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/muhammadaliiii10" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muhammad_ali_10_0?igsh=mwyxddlra2w0adg1dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammad_ali_10_0?igsh=mwyxddlra2w0adg1dw==" height="30" width="40" /></a>
+<p align="center">
+Создаю современные мобильные и веб-приложения с продуманным UX, чистой архитектурой и реальной бизнес-логикой.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-ali-2010&show_icons=true&locale=en&layout=compact" alt="m-ali-2010" /></p>
+## 🚀 Обо мне
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ali-2010&show_icons=true&locale=en" alt="m-ali-2010" /></p>
+- 📱 Мобильный разработчик (Flutter) с коммерческим опытом  
+- 🌐 Full Stack подход: Frontend + Backend логика + API интеграции  
+- 🎨 Сильный в UI/UX — работаю с Figma, превращаю дизайн в живые интерфейсы  
+- 🧠 Быстро вникаю в сложные задачи и довожу продукт до результата  
+- 🌍 Языки: **English (B2)** • Русский • Узбекский  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ali-2010&" alt="m-ali-2010" /></p>
+---
+
+## 📲 Мои приложения в App Store
+
+🟢 **Noor Quran**  
+Мобильное приложение для чтения Корана  
+🔗 https://apps.apple.com/uz/app/noor-quran/id6741198040
+
+🟢 **Note App – Mobile**  
+Приложение для заметок с удобным интерфейсом  
+🔗 https://apps.apple.com/uz/app/note-app-mobile/id6741317647
+
+> Эти приложения полностью реализованы мной: логика, интерфейс, структура, публикация.
+
+---
+
+## 🎨 Сильная сторона — UI/UX и продуманные интерфейсы
+
+Я не просто пишу код — я собираю **живые, удобные интерфейсы**, которые выглядят как коммерческие продукты.
+
+📌 Примеры направлений, с которыми я работал:
+- Финтех / Банковские интерфейсы  
+- Системы бронирования (авиабилеты, транспорт)  
+- Музыкальные и медиа-приложения  
+- Образовательные и религиозные приложения  
+- Админ-панели и сервисные приложения  
+
+Figma → Верстка → Логика → Рабочий продукт
+
+---
+
+## 🛠 Технологии
+
+### 👨‍💻 Языки
+<p>
+  <img src="https://skillicons.dev/icons?i=dart" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
+
+### ⚙️ Фреймворки и технологии
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+</p>
+
+### 🎨 Дизайн и инструменты
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+</p>
+
+---
+
+## 💼 Что я делаю как разработчик
+
+✔ Разработка мобильных приложений на Flutter  
+✔ Создание интерфейсов уровня коммерческих продуктов  
+✔ Интеграция REST API и backend-логики  
+✔ Работа с Firebase (Auth, Database, Notifications)  
+✔ Адаптивная вёрстка и фронтенд-разработка  
+✔ Превращаю дизайн из Figma в рабочее приложение  
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ali-2010&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ali-2010&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ali-2010&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Контакты
+
+📧 Email: **alimuhammad2010267@gmail.com**  
+💬 Telegram: https://t.me/Jrkhnv777  
+💼 LinkedIn: https://linkedin.com/in/muhammadali  
+🐙 GitHub: https://github.com/M-Ali-2010  
+
+---
+
+<p align="center">
+💡 <i>Я делаю интерфейсы, которые выглядят дорого и работают стабильно.</i>
+</p>
